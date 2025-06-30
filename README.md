@@ -7,11 +7,9 @@
 The Sentry.AI project aims to make intelligent security systems with deterrence capabilities available to everyday citizens.
 Many home and commercial security systems can detect intruders and send alerts, but in many cases law enforcement cant't arrive before some damage is already done. To address this issue we created a system that can surveil, detect, and deter threats in real time.
 
-![image1](images/IMG_1129.jpeg)
-
-
 Our robotic sentry incorporates computer vision to detect observed threats and keep tracking them. The administrator would then be prompted to take defensive action send the appropriate directive to the system. When directed, the tracking system would launch rubber pellets or other non-lethals at the threat until it left the area. To demonstrate this concept in our prototype, we used an OpenCV color detection model to easily distinguish threats as blue colored targets and safely tested the track-and-target system using ping pong balls. 
 
+![image1](images/IMG_1129.jpeg)
 
 Key Parts Used: 
 
