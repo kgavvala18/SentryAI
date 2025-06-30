@@ -1,5 +1,5 @@
 # Sentry.AI
-![image1](images/sideview.jpeg)
+![image1](images/IMG_1129.jpeg)
 
 
 The Sentry.AI project aims to make intelligent security systems with deterrence capabilities available to everyday citizens.
