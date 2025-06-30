@@ -1,2 +1,2 @@
 # Sentry.AI
-An autonomous surveilance robot that can detect threats and target them using computer vision  
+![image1](images/parts_diagram.png)
