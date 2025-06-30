@@ -1,4 +1,4 @@
-# Sentry.AI
+# SentryAI
 
 
 |[![Demo video](images/thumbnail.png)](https://www.youtube.com/watch?v=zrQpIDj6HPc)|
