@@ -1,8 +1,7 @@
 # Sentry.AI
 
-![image2](images/sentrysights.png)
 
-[![Demo video](images/sentrysights.png)](https://www.youtube.com/watch?v=zrQpIDj6HPc)
+[![Demo video](images/thumbnail.png)](https://www.youtube.com/watch?v=zrQpIDj6HPc)
 
 
 The Sentry.AI project aims to make intelligent security systems with deterrence capabilities available to everyday citizens.
