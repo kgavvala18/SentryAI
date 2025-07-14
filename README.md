@@ -3,7 +3,7 @@
 
 |[![Demo video](images/thumbnail.png)](https://www.youtube.com/watch?v=zrQpIDj6HPc)|
 |:--:|
-| *Click for demo* |
+| watch on youtube: https://www.youtube.com/watch?v=zrQpIDj6HPc |
 
 The SentryAI project aims to make intelligent security systems with deterrence capabilities available to everyday citizens.
 Many home and commercial security systems can detect intruders and send alerts, but in many cases law enforcement cant't arrive before some damage is already done. To address this issue we created a system that can surveil, detect, and deter threats in real time.
